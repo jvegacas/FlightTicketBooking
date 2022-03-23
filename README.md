@@ -6,3 +6,4 @@ Implemented  API which contains AirportController, PlaneController, FlightContro
 - SOLID principles  followed.
 - JPA  used.
 - MapStruct used. 
+- Rol based authtentication implemented by using Http Basic Auth.
